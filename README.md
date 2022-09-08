@@ -3,7 +3,7 @@
 # Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
 # Controlling TCP Server RAT Preview : 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/Android_RAT_APK_Version/main/Preiview.jpg" width="500" height="600" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Android_RAT_APK_Version/main/Preiview.jpg" width="150" height="400" ><br>
 
 </p>
 <p align="center">
@@ -14,6 +14,6 @@
 # RAT OPTIONS : 
 Blue Eagle Android RAT for Android
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/Android_RAT_APK_Version/main/Options%20Preview.jpg" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Android_RAT_APK_Version/main/Options%20Preview.jpg" width="150" height="400"><br>
 
 </p>
