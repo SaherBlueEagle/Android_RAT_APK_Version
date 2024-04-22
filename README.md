@@ -1,8 +1,7 @@
-# 💿 Program Owner , By : SaherBlueEagle
-# Blue Eagle Android RAT for Android
+# 💿 Program Owner : Blue Eagle Android RAT for Android
 # Fore receive external / remote (no-ip)  victim connnections apply port forwarding in your router , or use vpn for port forward using your data connection 
- 
-Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
+
+Hacking Wnidows using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
 # 1- Download Android RAT exe-apk Builder_Win8.exe 
 # 2- Build the apk Server one time only , build trojan exe for your android local ip / no-ip
