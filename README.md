@@ -1,5 +1,7 @@
 # 💿 Program Owner , By : SaherBlueEagle
 # Blue Eagle Android RAT for Android
+# Fore receive external / remote (no-ip)  victim connnections, port forward in your router 
+# or user vpn for port forward using your data connection 
 Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
 # 1- Download Android RAT exe-apk Builder_Win8.exe 
@@ -12,9 +14,13 @@ Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
 <img src="https://github.com/SaherBlueEagle/Android_RAT_APK_Version/blob/35f260bc1f5057bf5e06095e8dc120fd9c27e328/New%20Preview.png" width="200" height="350" >&nbsp &nbsp <img src="https://github.com/SaherBlueEagle/Android_RAT_APK_Version/blob/8be7d78b30c6b33b3c24e24faa8a313b9e8c6ed4/p1.jpg" width="200" height="350" >&nbsp &nbsp<img src="https://github.com/SaherBlueEagle/Android_RAT_APK_Version/blob/8be7d78b30c6b33b3c24e24faa8a313b9e8c6ed4/p2.jpg" width="200" height="350" >
 <br>
   <p align="center">
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Android_RAT_APK_Version/main/apk%20RAT.png" width="300" height="350" > 
+
+
+</p>
+ <p align="center">
 <img src="https://github.com/SaherBlueEagle/Android_RAT_APK_Version/raw/632d0725a78e2d2b3260b45fbc221e16a399d18f/videopreview.gif" > 
 
 
 </p>
-
 </p>
