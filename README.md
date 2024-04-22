@@ -1,6 +1,6 @@
 # 💿 Program Owner , By : SaherBlueEagle
 # Blue Eagle Android RAT for Android
-# Fore receive external / remote (no-ip)  victim connnections, port forward in your router or user vpn for port forward using your data connection 
+# Fore receive external / remote (no-ip)  victim connnections apply port forwarding in your router , or use vpn for port forward using your data connection 
  
 Hacking Wnidows / MAC / Linux / Adnroid  using your Android Phone
 😲😎💪TCP Server RAT [Remote Access Trojan] Preview : 
