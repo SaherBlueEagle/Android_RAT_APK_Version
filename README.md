@@ -9,6 +9,9 @@ Hacking Wnidows using your Android Phone
 # build exe if for exe trojan .
 # run exe on victim machine , run apk on phone to control victim machine , TO Refresh List , Wipe the List View down
 # Tutorial Video 👇 Press the tutorial below 👇 👇
+### Visitors :
+![Visitor Count](https://profile-counter.glitch.me/SaherBlueEagle/count.svg)
+
 [![IMAGE ALT TEXT HERE](https://github.com/SaherBlueEagle/Android_RAT_APK_Version/blob/main/apk%20RAT.png)](https://www.youtube.com/embed/Xh43aTBWInc)
 # Video 2 👇
 https://www.youtube.com/watch?v=donx_na0yzw
@@ -23,6 +26,4 @@ https://www.youtube.com/watch?v=donx_na0yzw
 
 </p>
 </p>
-### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/SaherBlueEagle/count.svg)
 
